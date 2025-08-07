@@ -1,0 +1,7 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Serious Media Gallery"
+theme = ""
+
+[params]
